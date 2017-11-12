@@ -13,6 +13,7 @@ namespace ConsoleApplication1
             int i;
 
             i = 1;
+            var j = 2;
             Console.WriteLine("1");
         }
     }
