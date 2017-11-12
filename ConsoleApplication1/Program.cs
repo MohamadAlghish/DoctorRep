@@ -14,6 +14,7 @@ namespace ConsoleApplication1
 
             i = 1;
             var j = 2;
+            var g = 2;
             Console.WriteLine("1");
         }
     }
